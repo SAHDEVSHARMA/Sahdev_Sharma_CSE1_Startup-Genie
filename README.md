@@ -28,8 +28,8 @@ An AI-powered application designed to help entrepreneurs transform their ideas i
 
 1. Clone the repository
    ```
-   git clone https://github.com/harshit-ig/startup-genie.git
-   cd startup-genie
+   git clone https://github.com/SAHDEVSHARMA/Sahdev_Sharma_CSE1_Startup-Genie.git
+   cd Startup-Genie
    ```
 
 2. Install dependencies for all components (root, frontend, and backend)
